@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dyno.gg	TRUE	/	FALSE	1999999999	__cfduid	d276e2f124b2cd4c0745ec13a702fe15e1581502971
+dyno.gg	TRUE	/	FALSE	1999999999	SameSite	Lax
+
